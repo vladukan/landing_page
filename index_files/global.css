@@ -1,0 +1,102 @@
+#slides {
+	position:relative;
+	top:15px;
+	left:4px;
+	z-index:100;
+}
+#slides .slides_container{
+	padding: 15px;
+}
+div.g-text{
+	background: #fff;
+	padding: 15px;
+}
+#slides .next, #slides .prev {
+	position:absolute;
+	top: 50px;
+	left:-13px;
+	width:11px;
+	height:18px;
+	display:block;
+	z-index:101;
+}
+
+.slides_container {
+	width:570px;
+	min-height:137px;
+	overflow:hidden;
+	position:relative;
+}
+
+#slides .next {
+	left:785px;
+}
+
+.pagination {
+	margin:26px auto 0;
+	width:100px;
+}
+
+.pagination li {
+	float:left;
+	margin:0 1px;
+	padding: 0px;
+}
+.pagination li:before{
+	display: none;
+}
+.pagination li a {
+	display:block;
+	width:12px;
+	height:0px;
+	padding: 0px !important;
+	padding-top:12px !important;
+	background-image:url(../img/pagination.png);
+	background-position:0 0;
+	float:left;
+	overflow:hidden;
+	line-height: normal !important;
+    text-decoration: none;
+        background-color: initial !important;
+    border: 0px !important;
+}
+
+.pagination li.current a {
+	background-position:0 -12px;
+}
+
+.caption {
+	position:absolute;
+	bottom:-35px;
+	height:30px;
+	padding:5px 20px 0 20px;
+	background:#000;
+	background:rgba(0,0,0,.5);
+	width:540px;
+	font-size:1.3em;
+	line-height:1.33;
+	color:#fff;
+	border-top:1px solid #000;
+	text-shadow:none;
+}
+
+#footer {
+	text-align:center;
+	width:580px;
+	margin-top:9px;
+	padding:4.5px 0 18px;
+	border-top:1px solid #dfdfdf;
+}
+
+#footer p {
+	margin:4.5px 0;
+	font-size:1.0em;
+}
+
+a:link,a:visited {
+	text-decoration:none;
+}
+
+a:hover,a:active {
+	text-decoration:underline;
+}

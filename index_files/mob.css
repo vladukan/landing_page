@@ -1,0 +1,208 @@
+@media (max-width:450px) {
+	body, html,div.maket,div.header,div.fixedblock{
+	    width:100%;
+	}
+	div.header{
+        height: 280px;
+	}
+	div.fixedblock{
+	    padding: 0 10px;
+	}
+	div.logo{
+        background-size: 140px;
+        margin-right: 0;
+        width: 167px;
+	}
+	div.topInfo a.tele{
+	    font-size: 20px;
+        margin-right: 0px;
+	}
+	div.topInfo{
+	    
+	}
+	div.Block_top{
+        position: absolute;
+        right: 10px;
+        width: 100%;
+	}
+	div.topInfo p {
+	    font-size:12px;
+	}
+	div.BlockTeelefon{
+	    float:none;
+	    display:block;
+	}
+    div.topInfo a.tele{
+	    display:block;
+	}
+	div.topmenu {
+        display: block;
+        margin-left: 30px;
+    }
+    div.topmenu ul li{
+        float:none;
+        margin:0;
+    }
+    h1{
+        font-size:21px !important;
+    }
+    h2{
+        font-size:18px !important;
+    }
+    h3{
+        font-size:18px !important;
+    }
+    h4{
+        font-size:18px !important;
+    }
+    div.banner div.bottomPart{
+        width:100%;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    .boxSOmeImg img{
+        margin-left: -100px;
+    }
+    div.left{
+        display:none;
+    }
+    div.matrixblock div.mono{
+        display:none;
+    }
+    div.matrixblock div.Nout{
+        display:none;
+    }
+    div.popular .media{
+        width:100%;
+    }
+    div.bottompart div.formBlock{
+        height: 285px;
+    }
+    div.FormBlockIm div.toppart ul li{
+        width: 100%;
+    }
+    .action{
+        display:none;
+    }
+    div.footer{
+        width: 100%;
+        margin: 0;
+    }
+    div.footer div.blockfooter{
+        width:100%;
+        margin:0;
+    }
+    div.footer div.blockfooter:nth-child(2){
+        width:100%;
+    }
+    div.footer div.blockfooter:nth-child(3){
+        width:100%;
+    }
+    div.rasporka{
+        height:10px;
+    }
+    .footer .fixedblock{
+        padding: 0 20px;
+    }
+    div.footer div.blockfooter:nth-child(2) ul li{
+        width:30%;
+    }
+    #isotope{
+        width:100% !important;
+    }
+    div.matrixblock{
+        width:100% !important;
+    }
+    .right {
+        display:none;
+    }
+    div.content{
+        margin:0;
+        padding:0;
+        width:100%;
+        margin-top: 20px;
+    }
+    div.tab-cont-content{
+        float: left;
+    }
+    .box{
+        margin: 220px 0 0 0;
+    }
+    div.Fixfloat.about#price ul li{
+        width:100%;
+    }
+    div.Fixfloat#price img{
+        right: -240px;
+    }
+    div.content div.yesornot{
+        height: 190px;
+    }
+    div.review{
+        display:none;
+    }
+    div.Box_guarantee div.BlockIMg svg{
+        width: 60px;
+    }
+    div.someInfoBox div.raightpartcont{
+        width:100%;
+        margin-top: 30px;
+    }
+    div.someInfoBox div.leftpartcont{
+        width:100%;
+    }
+    div.someInfoBox{
+        padding: 30px;
+    }
+    div.topmenu ul li a::before{
+        top: 9px;
+    }
+    div.topmenu ul li a::after{
+        bottom: 9px;
+    }
+    .media-body p{
+        line-height: 20px;
+    }
+   div.prist, div.Plansh, div.Smartf{
+        width: 100%;
+    }
+    .item{
+        width: 100%;
+    }
+    div.Fixfloat#dtpage{
+        padding: 20px 20px 0 20px;
+        margin:0;
+        width:100%;
+        margin-bottom: 20px;
+    }
+    div.Fixfloat#dtpage p{
+        width:100%;
+    }
+    div.Fixfloat#dtpage ul li{
+        width:100%;
+    }
+    div.Fixfloat#dtpage img{
+        right: -220px;
+    }
+    div.plushki#ulLeft ul{
+        width:100%;
+    }
+    div#dtpage hr{
+        width:100%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
